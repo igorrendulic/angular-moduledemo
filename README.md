@@ -1,4 +1,12 @@
-# Loginandregapp
+# Angular 9 Material Design demo app for Micro Frontends
+
+This is a demo app for Angular 9 Feature Modules
+
+## Install
+```
+git clone https://github.com/igorrendulic/angular-moduledemo.git
+git submodule update --init --recursive
+```
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.5.
 

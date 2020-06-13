@@ -1,0 +1,3 @@
+[submodule "src/app/modules/loginandreg"]
+	path = src/app/modules/loginandreg
+	url = https://github.com/igorrendulic/angular9-loginandreg-module.git
